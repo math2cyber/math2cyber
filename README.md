@@ -9,7 +9,7 @@
 - <b>CNL Email/EDR/SIEM Investigations</b>
   - [Phishing Email in Proofpoint](https://github.com/math2cyber/EMAILURL)
   - [EDR Investigation in Crowdstrike](https://github.com/math2cyber/Splunk_ES_Investigation_PJ)
-  - [SIEM Investigation in Splunk](https://github.com/math2cyber/EMAILURL)
+  - [SIEM Investigation in Splunk](https://github.com/math2cyber/Splunk_ES_Investigation_PJ)
 - <b>Wireshark Packet Capture Analysis</b>
   - [Wireshark Packet Capture Analysis Report](https://github.com/joshmadakor1/PacketCapture)
 
