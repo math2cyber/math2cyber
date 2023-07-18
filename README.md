@@ -2,9 +2,9 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>Detection Home Lab</b>
-  - [Tutorial on Creating the Home Lab](https://github.com/joshmadakor1/HomeLab)
-- <b>Microsoft Azure Detection Lab</b>
+- <b>TPot HoneyPot</b>
+  - [Tutorial on Installing TPot on Vultr.com](https://github.com/joshmadakor1/HomeLab)
+- <b>Microsoft Azure Sentinel and Honeynet Lab</b>
   - [Tutorial on Creating Azure Detection Lab](https://github.com/joshmadakor1/AzureLab)
 - <b>CNL Email/EDR/SIEM Investigations</b>
   - [Phishing Email in Proofpoint](https://github.com/math2cyber/EMAILURL)
