@@ -11,7 +11,7 @@
   - [Tutorial on Installing TPot on Vultr.com](https://github.com/math2cyber/Tpot-Honeypot)
 
 - <b>Microsoft Azure Sentinel and Honeynet Lab</b>
-  - [Tutorial on Creating Azure Detection Lab](https://github.com/joshmadakor1/AzureLab) (in progress)
+  - [Tutorial on Creating Azure Detection Lab](https://github.com/math2cyber/Azure_Sentinel_Honeynet_PJ) (in progress)
 
 
 <h2> Certificatoins</h2>
