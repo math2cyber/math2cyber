@@ -2,14 +2,17 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>TPot HoneyPot</b>
-  - [Tutorial on Installing TPot on Vultr.com](https://github.com/joshmadakor1/HomeLab)
-- <b>Microsoft Azure Sentinel and Honeynet Lab</b>
-  - [Tutorial on Creating Azure Detection Lab](https://github.com/joshmadakor1/AzureLab)
 - <b>CNL Email/EDR/SIEM Investigations</b>
   - [Phishing Email in Proofpoint](https://github.com/math2cyber/Proofpoint_Investigation_PJ)
   - [EDR Investigation in Crowdstrike](https://github.com/math2cyber/Crowdstrike_Falcon_Investigation_PJ)
   - [SIEM Investigation in Splunk](https://github.com/math2cyber/Splunk_ES_Investigation_PJ)
+
+- <b>TPot HoneyPot</b>
+  - [Tutorial on Installing TPot on Vultr.com](https://github.com/joshmadakor1/HomeLab)
+
+- <b>Microsoft Azure Sentinel and Honeynet Lab</b>
+  - [Tutorial on Creating Azure Detection Lab](https://github.com/joshmadakor1/AzureLab) (in progress)
+
 
 <h2> Certificatoins</h2>
 
