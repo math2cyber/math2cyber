@@ -8,7 +8,7 @@
   - [SIEM Investigation in Splunk](https://github.com/math2cyber/Splunk_ES_Investigation_PJ)
 
 - <b>TPot HoneyPot</b>
-  - [Tutorial on Installing TPot on Vultr.com](https://github.com/joshmadakor1/HomeLab)
+  - [Tutorial on Installing TPot on Vultr.com](https://github.com/math2cyber/Tpot-Honeypot)
 
 - <b>Microsoft Azure Sentinel and Honeynet Lab</b>
   - [Tutorial on Creating Azure Detection Lab](https://github.com/joshmadakor1/AzureLab) (in progress)
